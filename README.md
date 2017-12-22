@@ -42,7 +42,7 @@ Source [https://gitlab.com/snippets/34332#notes](#https://gitlab.com/snippets/34
 [http://45.76.138.35:1024](#http://45.76.138.35:1024)
 
 
-#Usage
+# Usage
 paste Url in
   Help>register>license Server
 Discover Server and Activate
