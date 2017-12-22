@@ -1,6 +1,6 @@
 
 
-# JetBrans-license-servers
+# JetBrains-license-servers
 
 [http://jetbrains.tencent.click](#http://jetbrains.tencent.click)
 
@@ -21,7 +21,7 @@
 
 Source [https://gitlab.com/snippets/34332#notes](#https://gitlab.com/snippets/34332#notes)
 
-# JetBrans-license-servers 2017.2
+# JetBrains-license-servers 2017.2
 [http://idea.iteblog.com/key.php](#http://idea.iteblog.com/key.php)
 
 [http://idea.imsxm.com/](#http://idea.imsxm.com/)
@@ -40,3 +40,11 @@ Source [https://gitlab.com/snippets/34332#notes](#https://gitlab.com/snippets/34
 [http://45.32.11.159:1017](#http://45.32.11.159:1017)
 
 [http://45.76.138.35:1024](#http://45.76.138.35:1024)
+
+
+#Usage
+paste Url in
+  Help>register>license Server
+Discover Server and Activate
+
+
